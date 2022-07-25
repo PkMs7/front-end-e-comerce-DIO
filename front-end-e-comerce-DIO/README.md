@@ -2,7 +2,7 @@
 
 Em breve imagem e detalhes do projeto concluído
 
-![image](./src/assets/images/trabalhando.jpg)
+![image](./src/assets/images/App%20FrontEnd%20Bookstore.JPG)
 
 <!-- # Bookstore
 
