@@ -11,7 +11,7 @@
 
 Abaixo imagem do projeto em funcionamento, consumindo a API:
 
-![image](./src/assets/images/App%20FrontEnd%20Bookstore.JPG)
+![image](front-end-e-comerce-DIO/src/assets/images/App%20FrontEnd%20Bookstore.JPG)
 
 <!-- # Bookstore
 
