@@ -1,6 +1,15 @@
-# Projeto em produção
+# Projeto versão 1.0
 
-Em breve imagem e detalhes do projeto concluído
+- Para o projeto funcionar, clique no seguinte link para acessar a API: https://github.com/PkMs7/back-end-e-commerce-DIO
+
+- Com a API baixada em sua máquina, abra o VSCode e rode o aplicativo com o comando `dotnet run start`
+
+- Verifique a porta que a aplicação roda a API, e configure a rota neste caminho:
+
+    `src/app/components/produtct-list/product-listl.service.ts`
+
+
+Abaixo imagem do projeto em funcionamento, consumindo a API:
 
 ![image](./src/assets/images/App%20FrontEnd%20Bookstore.JPG)
 
